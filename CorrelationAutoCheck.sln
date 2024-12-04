@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1525
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp4", "WindowsFormsApp4\WindowsFormsApp4.csproj", "{736C2DA6-0713-4D1F-922A-C63A0335E35E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrelationAutoCheck", "CorrelationAutoCheck\CorrelationAutoCheck.csproj", "{736C2DA6-0713-4D1F-922A-C63A0335E35E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

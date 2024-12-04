@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WindowsFormsApp4")]
+[assembly: AssemblyTitle("CorrelationAutoCheck")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("National Instruments")]
-[assembly: AssemblyProduct("WindowsFormsApp4")]
+[assembly: AssemblyProduct("CorrelationAutoCheck")]
 [assembly: AssemblyCopyright("Copyright © National Instruments 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
