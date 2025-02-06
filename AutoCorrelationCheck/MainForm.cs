@@ -253,7 +253,7 @@ namespace AutoCorrelationCheck
 
                 string TargetFileName = string.Format("{0}_{1}_{2}", ProjectInfo, BuildInfo, RevInfo);
 
-                string CombinedPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, $@"PackageFiles");
+                string CombinedPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, $@"PackageFiles", DateTime.Now.ToString("yyyyMMdd_HHmmss"));
                 Directory.CreateDirectory(CombinedPath);
 
                 string cfPath = Path.Combine(@"C:\Avago.ATF.Common.x64\CorrelationFiles\Development", $"{TargetFileName}_CF_Rev9999.csv");
